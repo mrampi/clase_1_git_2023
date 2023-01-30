@@ -1,4 +1,4 @@
 
-function saludar() {
-    console.log("Hola");
+function saludar(nombre) {
+    return `Hola ${nombre}`;
 }
